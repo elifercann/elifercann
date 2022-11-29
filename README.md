@@ -6,7 +6,7 @@ Full Stack Developer
 
 * 🌍  I'm based in Turkey, Konya
 * ✉️  You can contact me at [ercanelif450@gmail.com](mailto:ercanelif450@gmail.com)
-* 🚀  I'm currently working on [web applications using Entity Framework especially MVC](http://web applications using Entity Framework especially MVC)
+* 🚀  I'm currently working on web applications using Entity Framework especially MVC
 * 🧠  I'm learning Angular
 
 ### Skills
