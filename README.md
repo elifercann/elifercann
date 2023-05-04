@@ -1,7 +1,7 @@
-Hi 👋 My name is Elif
+Hi 👋 I'm Elif
 =====================
 
-Full Stack Developer
+Junior Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Turkey, Konya
