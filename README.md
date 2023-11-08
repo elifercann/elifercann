@@ -31,11 +31,3 @@ src="https://img.shields.io/github/followers/elifercann?logo=github&style=for-th
 
 <a href="http://www.github.com/elifercann"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elifercann&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/elifercann/BookStoreApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elifercann&repo=BookStoreApp&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/elifercann/pk-sim" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elifercann&repo=pk-sim&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-
-<div width="100%" align="center"><a href="https://github.com/elifercann/MyFinalProject" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elifercann&repo=MyFinalProject&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/elifercann/MyFinalProject-frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elifercann&repo=MyFinalProject-frontend&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
