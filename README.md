@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Turkey,Konya
 * ✉️  You can contact me at [ercanelif450@gmail.com](mailto:ercanelif450@gmail.com)
-* 🧠  I'm learning Javascript and Ajax
+
 
 <a href="https://www.github.com/elifercann" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/elifercann?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
