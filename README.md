@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full Stack Web Developer
 -------------
 
-* 🌍  I'm based in Turkey,Konya
-* ✉️  You can contact me at [ercanelif450@gmail.com](mailto:ercanelif450@gmail.com)
+* I am .Net MVC Full Stack Web Developer.
+* You can contact me at [ercanelif450@gmail.com](mailto:ercanelif450@gmail.com)
 
 
 <a href="https://www.github.com/elifercann" target="_blank" rel="noreferrer"><img
