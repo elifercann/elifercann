@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Elif
 ============================================================================================================================
 
-Junior Full Stack Web Developer
+Full Stack Web Developer
 -------------
 ### About Me
 - I am a full-stack developer specializing in .NET technologies, with expertise in building end-to-end web applications. My skills range from designing and implementing APIs with .NET API to developing dynamic, user-friendly interfaces using .NET MVC. I manage the entire development lifecycle, including database setup, application deployment, and testing, ensuring seamless and efficient solutions for complex business requirements. Passionate about delivering high-quality, scalable software, I am constantly exploring new technologies and best practices to enhance my work.
