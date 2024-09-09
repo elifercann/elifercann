@@ -5,7 +5,7 @@ Junior Full Stack Web Developer
 -------------
 
 * I am .Net MVC Full Stack Web Developer.
-* You can contact me at [ercanelif450@gmail.com](mailto:ercanelif450@gmail.com)
+* You can contact me at [ercanelif450@gmail.com](mailto:ercanelif450@gmail.com) or  [linkedin.com/in/elif-ercann](https://tr.linkedin.com/in/elif-ercann)
 
 
 <a href="https://www.github.com/elifercann" target="_blank" rel="noreferrer"><img
