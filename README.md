@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Junior Full Stack Web Developer
 -------------
-
-* I am .Net MVC Full Stack Web Developer.
-* You can contact me at [ercanelif450@gmail.com](mailto:ercanelif450@gmail.com) or  [linkedin.com/in/elif-ercann](https://tr.linkedin.com/in/elif-ercann)
+### About Me
+- I am a full-stack developer specializing in .NET technologies, with expertise in building end-to-end web applications. My skills range from designing and implementing APIs with .NET API to developing dynamic, user-friendly interfaces using .NET MVC. I manage the entire development lifecycle, including database setup, application deployment, and testing, ensuring seamless and efficient solutions for complex business requirements. Passionate about delivering high-quality, scalable software, I am constantly exploring new technologies and best practices to enhance my work.
+- You can contact me at [ercanelif450@gmail.com](mailto:ercanelif450@gmail.com) or  [linkedin.com/in/elif-ercann](https://tr.linkedin.com/in/elif-ercann)
 
 
 <a href="https://www.github.com/elifercann" target="_blank" rel="noreferrer"><img
