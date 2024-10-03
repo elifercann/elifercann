@@ -8,8 +8,7 @@ Full Stack Web Developer
 - You can contact me at [ercanelif450@gmail.com](mailto:ercanelif450@gmail.com) or  [linkedin.com/in/elif-ercann](https://tr.linkedin.com/in/elif-ercann)
 
 
-<a href="https://www.github.com/elifercann" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/elifercann?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+
 
 ### Skills
 
